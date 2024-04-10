@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+}
+#learn{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 0 5px 5px 5px grey;
+}
+#skill{
+    background-color: blueviolet;
+    text-decoration: dashed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#good{
+    background-color: pink;
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+h1{
+    color: brown;
+}
